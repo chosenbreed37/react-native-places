@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyAqBNiGZwvxmQKLuxkmqRU0xrruLv2DmB0';
+const API_KEY = '';
 
 
 export function getMapPreview(lat, lng) {
